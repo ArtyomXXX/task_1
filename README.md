@@ -9,7 +9,7 @@
 ---
 
 ## Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,js)](https://skillicons.dev)
 
 ### Ссылка на [GitHub Pages](https://artyomxxx.github.io/task_1/)
 
