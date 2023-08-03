@@ -11,6 +11,7 @@
 ## Stack
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
+Ссылка на [GitHub Pages](https://artyomxxx.github.io/task_1/)
 
 ## Реализация
 В этом коде реализован таймер, который позволяет пользователю вводить количество секунд и начать обратный отсчёт при нажатии на кнопку Start.
